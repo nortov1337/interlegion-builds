@@ -1,0 +1,11 @@
+{
+    "channel":  "stable",
+    "version":  "1.0.0",
+    "artifact":  "panel/Interlegion.Panel-1.0.0.zip",
+    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/panel/Interlegion.Panel-1.0.0.zip",
+    "sha256":  "B4742036AA725A8886EFE683117BD2C5A62A2D439AD0C2353F6DD72F29988C81",
+    "size":  23499400,
+    "notes":  "Первый выпуск: система автообновления панели",
+    "publishedAt":  "2026-10-05T20:32:21.2927448Z",
+    "mandatory":  false
+}

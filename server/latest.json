@@ -3,9 +3,9 @@
     "version":  "1.0.1",
     "artifact":  "server/Interlegion.Server-1.0.1.zip",
     "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.1.zip",
-    "sha256":  "58B7ADD55D169EB4DE4D337080176FB97BE38225F9B21F0CE5FFCDF0FC37FD9E",
-    "size":  23186448,
+    "sha256":  "44C167A8870D27959CA2ABD476AB31E3560B1C0FF8889ECAA69C416FCA44A584",
+    "size":  23187698,
     "notes":  "Автообновление панели и сервера; фикс тоста api/clients",
-    "publishedAt":  "2026-10-05T20:51:37.7960522Z",
+    "publishedAt":  "2026-10-05T20:56:44.8881453Z",
     "mandatory":  false
 }

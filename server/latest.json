@@ -1,11 +1,11 @@
 {
     "channel":  "stable",
-    "version":  "1.0.1",
-    "artifact":  "server/Interlegion.Server-1.0.1.zip",
-    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.1.zip",
-    "sha256":  "44C167A8870D27959CA2ABD476AB31E3560B1C0FF8889ECAA69C416FCA44A584",
-    "size":  23187698,
-    "notes":  "Автообновление панели и сервера; фикс тоста api/clients",
-    "publishedAt":  "2026-10-05T20:56:44.8881453Z",
+    "version":  "1.0.2",
+    "artifact":  "server/Interlegion.Server-1.0.2.zip",
+    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.2.zip",
+    "sha256":  "59254AC3BFC323C43C9E726762BDEA28273940903CE4F737EB5A9673047FFAD9",
+    "size":  23187712,
+    "notes":  "Автообновление панели и сервера",
+    "publishedAt":  "2026-10-05T21:04:57.9171085Z",
     "mandatory":  false
 }

@@ -1,11 +1,11 @@
 {
     "channel":  "stable",
-    "version":  "1.0.1",
-    "artifact":  "panel/Interlegion.Panel-1.0.1.zip",
-    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/panel/Interlegion.Panel-1.0.1.zip",
-    "sha256":  "CC95F32B5BE97284B212D1D4D23132DED2F15EB47FE5ECDE5BF7C4D2C32AF3B9",
-    "size":  23502371,
-    "notes":  "Автообновление панели и сервера; фикс тоста api/clients",
-    "publishedAt":  "2026-10-05T20:56:44.8671303Z",
+    "version":  "1.0.2",
+    "artifact":  "panel/Interlegion.Panel-1.0.2.zip",
+    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/panel/Interlegion.Panel-1.0.2.zip",
+    "sha256":  "87768DE90CC3AD13F9677977602C4A103124F23AE563FB24BAEB38E2890C1C4C",
+    "size":  23502374,
+    "notes":  "Автообновление панели и сервера",
+    "publishedAt":  "2026-10-05T21:04:57.8940398Z",
     "mandatory":  false
 }

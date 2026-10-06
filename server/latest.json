@@ -1,11 +1,11 @@
 {
     "channel":  "stable",
-    "version":  "1.0.3",
-    "artifact":  "server/Interlegion.Server-1.0.3.zip",
-    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.3.zip",
-    "sha256":  "DF50D4DD7CBEA831C2FA790A202414F5DC389967B1639DA7B1F7D835DB2B8EF8",
-    "size":  23201599,
-    "notes":  "Деплой Windows-сервера по SSH (как Linux): папка установки, автозапуск через Планировщик задач, все данные внутри папки. Понятные ошибки SSH-подключения.",
-    "publishedAt":  "2026-10-06T19:59:09.8145111Z",
+    "version":  "1.0.4",
+    "artifact":  "server/Interlegion.Server-1.0.4.zip",
+    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.4.zip",
+    "sha256":  "0A9FD42007BE78F5F2F0006B41974A4AB2BAE0709BDB5C84843851814A857FE8",
+    "size":  23193782,
+    "notes":  "Windows-обновление сервера без OpenSSH (кнопка \u0027Обновить билд сервера\u0027, заливка через HTTP); кнопки обновления в серверном приложении для Windows и Linux.",
+    "publishedAt":  "2026-10-06T20:07:30.4546326Z",
     "mandatory":  false
 }

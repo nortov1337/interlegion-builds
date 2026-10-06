@@ -1,11 +1,11 @@
 {
     "channel":  "stable",
-    "version":  "1.0.4",
-    "artifact":  "server/Interlegion.Server-1.0.4.zip",
-    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.4.zip",
-    "sha256":  "0A9FD42007BE78F5F2F0006B41974A4AB2BAE0709BDB5C84843851814A857FE8",
-    "size":  23193782,
-    "notes":  "Windows-обновление сервера без OpenSSH (кнопка \u0027Обновить билд сервера\u0027, заливка через HTTP); кнопки обновления в серверном приложении для Windows и Linux.",
-    "publishedAt":  "2026-10-06T20:07:30.4546326Z",
+    "version":  "1.0.5",
+    "artifact":  "server/Interlegion.Server-1.0.5.zip",
+    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.5.zip",
+    "sha256":  "DCEA5D21F8F7159A60FCD8076B207A1F92A22F1D696B2D52C244476EE2D79C0A",
+    "size":  23193844,
+    "notes":  "Подключение к серверу перенесено во вкладку \u0027Сервер\u0027 и автоматически поднимает сессию панели (Users/Builder). Из Настроек подключение убрано.",
+    "publishedAt":  "2026-10-06T20:12:35.5756616Z",
     "mandatory":  false
 }

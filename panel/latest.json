@@ -1,11 +1,11 @@
 {
     "channel":  "stable",
-    "version":  "1.0.5",
-    "artifact":  "panel/Interlegion.Panel-1.0.5.zip",
-    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/panel/Interlegion.Panel-1.0.5.zip",
-    "sha256":  "853FCE7B58BEC94458A27CBF57886584E1BC5751BF2E4290F1B8DC66B8EB943B",
-    "size":  23505250,
-    "notes":  "Подключение к серверу перенесено во вкладку \u0027Сервер\u0027 и автоматически поднимает сессию панели (Users/Builder). Из Настроек подключение убрано.",
-    "publishedAt":  "2026-10-06T20:12:35.5536490Z",
+    "version":  "1.0.6",
+    "artifact":  "panel/Interlegion.Panel-1.0.6.zip",
+    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/panel/Interlegion.Panel-1.0.6.zip",
+    "sha256":  "748E3EFC13E4C6848B6ACE11266FDF66750FFD51EC318572B7D6CE1E4B285997",
+    "size":  23506333,
+    "notes":  "Builder: сборка клиента не падает из-за занятого exe (публикация во временную папку, остановка запущенного клиента, понятная ошибка). Клиент: диагностика single-instance.",
+    "publishedAt":  "2026-10-06T20:28:31.0445558Z",
     "mandatory":  false
 }

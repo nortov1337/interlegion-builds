@@ -1,11 +1,11 @@
 {
     "channel":  "stable",
-    "version":  "1.0.6",
-    "artifact":  "server/Interlegion.Server-1.0.6.zip",
-    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.6.zip",
-    "sha256":  "6656786B000F67F46B7E7BFDC7E6C5530F64C0A69E9A247391BA08F31B5E3CD9",
-    "size":  23194903,
-    "notes":  "Builder: сборка клиента не падает из-за занятого exe (публикация во временную папку, остановка запущенного клиента, понятная ошибка). Клиент: диагностика single-instance.",
-    "publishedAt":  "2026-10-06T20:28:31.0676423Z",
+    "version":  "1.0.7",
+    "artifact":  "server/Interlegion.Server-1.0.7.zip",
+    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.7.zip",
+    "sha256":  "733DFAFF63FB0E1A4058D58B257BF08F2D79E4BFA268C2A52AA3A9B16B5A758E",
+    "size":  23194499,
+    "notes":  "Сервер: удаление клиента в панели больше не блокирует его навсегда (убран DeletedClientRegistry; постоянная блокировка — Ban). Builder: сборка клиента не падает из-за занятого exe.",
+    "publishedAt":  "2026-10-06T20:40:48.4366138Z",
     "mandatory":  false
 }

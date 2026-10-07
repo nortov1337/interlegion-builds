@@ -1,11 +1,11 @@
 {
     "channel":  "stable",
-    "version":  "1.0.7",
-    "artifact":  "server/Interlegion.Server-1.0.7.zip",
-    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.7.zip",
-    "sha256":  "733DFAFF63FB0E1A4058D58B257BF08F2D79E4BFA268C2A52AA3A9B16B5A758E",
-    "size":  23194499,
-    "notes":  "Сервер: удаление клиента в панели больше не блокирует его навсегда (убран DeletedClientRegistry; постоянная блокировка — Ban). Builder: сборка клиента не падает из-за занятого exe.",
-    "publishedAt":  "2026-10-06T20:40:48.4366138Z",
+    "version":  "1.0.8",
+    "artifact":  "server/Interlegion.Server-1.0.8.zip",
+    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.8.zip",
+    "sha256":  "2C2F000A5520937173F9CA01F3BA43223030D39A8B17101B0A468B8F6380109E",
+    "size":  23194529,
+    "notes":  "Панель, вкладка Сервер (Linux): сначала SSH-подключение (поля как в Windows), блок управления появляется после успешного подключения.",
+    "publishedAt":  "2026-10-07T14:59:25.9510829Z",
     "mandatory":  false
 }

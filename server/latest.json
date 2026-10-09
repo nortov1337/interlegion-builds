@@ -1,11 +1,11 @@
 {
     "channel":  "stable",
-    "version":  "1.0.10",
-    "artifact":  "server/Interlegion.Server-1.0.10.zip",
-    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.10.zip",
-    "sha256":  "7E73B497FDDE7233A8511F3E9404970767FE383637B691D44EB948F80F49C332",
-    "size":  23198302,
-    "notes":  "Учётная запись панели в серверном приложении; развёртывание Linux из серверного окна; поля панели видны сразу",
-    "publishedAt":  "2026-10-09T20:07:51.2059677Z",
+    "version":  "1.0.11",
+    "artifact":  "server/Interlegion.Server-1.0.11.zip",
+    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.11.zip",
+    "sha256":  "9DC46F92F588B381C4ABD2A8A299A0FA9905BA1CCFFA3702E00E5CB2E9F0D5D2",
+    "size":  23198405,
+    "notes":  "Фикс: generic-клиент после автообновления снова находится в панели (читает client.config.json рядом с exe)",
+    "publishedAt":  "2026-10-09T21:12:10.9231072Z",
     "mandatory":  false
 }

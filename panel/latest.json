@@ -1,11 +1,11 @@
 {
     "channel":  "stable",
-    "version":  "1.0.9",
-    "artifact":  "panel/Interlegion.Panel-1.0.9.zip",
-    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/panel/Interlegion.Panel-1.0.9.zip",
-    "sha256":  "69455E7DEA1107763593116B42A3E38D319BE0260C4B0690C3075A358D638EC2",
-    "size":  23510896,
-    "notes":  "Исправлена адресная строка файлового менеджера; Linux SSH-сессия переживает переключение вкладок и автоматически подключает панель",
-    "publishedAt":  "2026-10-09T19:53:20.6738719Z",
+    "version":  "1.0.10",
+    "artifact":  "panel/Interlegion.Panel-1.0.10.zip",
+    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/panel/Interlegion.Panel-1.0.10.zip",
+    "sha256":  "508675B0A5A25A0AD5065DC131FE7CF089B40F7E8996E02F6959CD81F564A2FB",
+    "size":  23511227,
+    "notes":  "Учётная запись панели в серверном приложении; развёртывание Linux из серверного окна; поля панели видны сразу",
+    "publishedAt":  "2026-10-09T20:07:51.1799211Z",
     "mandatory":  false
 }

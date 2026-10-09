@@ -1,11 +1,11 @@
 {
     "channel":  "stable",
-    "version":  "1.0.8",
-    "artifact":  "server/Interlegion.Server-1.0.8.zip",
-    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.8.zip",
-    "sha256":  "2C2F000A5520937173F9CA01F3BA43223030D39A8B17101B0A468B8F6380109E",
-    "size":  23194529,
-    "notes":  "Панель, вкладка Сервер (Linux): сначала SSH-подключение (поля как в Windows), блок управления появляется после успешного подключения.",
-    "publishedAt":  "2026-10-07T14:59:25.9510829Z",
+    "version":  "1.0.9",
+    "artifact":  "server/Interlegion.Server-1.0.9.zip",
+    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.9.zip",
+    "sha256":  "4518A2B6CFEC5A72441C9CCF951E649DBBF4A9C5D049D7285F3B679DEB04FEE3",
+    "size":  23194530,
+    "notes":  "Исправлена адресная строка файлового менеджера; Linux SSH-сессия переживает переключение вкладок и автоматически подключает панель",
+    "publishedAt":  "2026-10-09T19:53:20.6953883Z",
     "mandatory":  false
 }

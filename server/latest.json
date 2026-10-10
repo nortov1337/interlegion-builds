@@ -1,11 +1,11 @@
 {
     "channel":  "stable",
-    "version":  "1.0.11",
-    "artifact":  "server/Interlegion.Server-1.0.11.zip",
-    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.11.zip",
-    "sha256":  "9DC46F92F588B381C4ABD2A8A299A0FA9905BA1CCFFA3702E00E5CB2E9F0D5D2",
-    "size":  23198405,
-    "notes":  "Фикс: generic-клиент после автообновления снова находится в панели (читает client.config.json рядом с exe)",
-    "publishedAt":  "2026-10-09T21:12:10.9231072Z",
+    "version":  "1.0.12",
+    "artifact":  "server/Interlegion.Server-1.0.12.zip",
+    "url":  "https://raw.githubusercontent.com/nortov1337/interlegion-builds/main/server/Interlegion.Server-1.0.12.zip",
+    "sha256":  "B1532C27B271775ABA3559177C4E73595B50F13EF1F6F56EF65E6900BDCA2E14",
+    "size":  23198979,
+    "notes":  "Панель подключается к Linux-серверу через SSH-туннель; точная причина ошибки и кнопка подключения панели",
+    "publishedAt":  "2026-10-10T00:06:12.0961560Z",
     "mandatory":  false
 }
